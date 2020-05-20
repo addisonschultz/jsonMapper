@@ -31,63 +31,63 @@ function generate(inputPath) {
 
       const item1 = {
         size: x.inventory.size_input_1,
-        quantity: x.inventory.quantity_input_1,
+        quantity: parseInt(x.inventory.quantity_input_1),
       };
       const item2 = {
         size: x.inventory.size_input_2,
-        quantity: x.inventory.quantity_input_2,
+        quantity: parseInt(x.inventory.quantity_input_2),
       };
       const item3 = {
         size: x.inventory.size_input_3,
-        quantity: x.inventory.quantity_input_3,
+        quantity: parseInt(x.inventory.quantity_input_3),
       };
       const item4 = {
         size: x.inventory.size_input_4,
-        quantity: x.inventory.quantity_input_4,
+        quantity: parseInt(x.inventory.quantity_input_4),
       };
       const item5 = {
         size: x.inventory.size_input_5,
-        quantity: x.inventory.quantity_input_5,
+        quantity: parseInt(x.inventory.quantity_input_5),
       };
       const item6 = {
         size: x.inventory.size_input_6,
-        quantity: x.inventory.quantity_input_6,
+        quantity: parseInt(x.inventory.quantity_input_6),
       };
       const item7 = {
         size: x.inventory.size_input_7,
-        quantity: x.inventory.quantity_input_7,
+        quantity: parseInt(x.inventory.quantity_input_7),
       };
       const item8 = {
         size: x.inventory.size_input_8,
-        quantity: x.inventory.quantity_input_8,
+        quantity: parseInt(x.inventory.quantity_input_8),
       };
       const item9 = {
         size: x.inventory.size_input_9,
-        quantity: x.inventory.quantity_input_9,
+        quantity: parseInt(x.inventory.quantity_input_9),
       };
       const item10 = {
         size: x.inventory.size_input_10,
-        quantity: x.inventory.quantity_input_10,
+        quantity: parseInt(x.inventory.quantity_input_10),
       };
       const item11 = {
         size: x.inventory.size_input_11,
-        quantity: x.inventory.quantity_input_11,
+        quantity: parseInt(x.inventory.quantity_input_11),
       };
       const item12 = {
         size: x.inventory.size_input_12,
-        quantity: x.inventory.quantity_input_12,
+        quantity: parseInt(x.inventory.quantity_input_12),
       };
       const item13 = {
         size: x.inventory.size_input_13,
-        quantity: x.inventory.quantity_input_13,
+        quantity: parseInt(x.inventory.quantity_input_13),
       };
       const item14 = {
         size: x.inventory.size_input_14,
-        quantity: x.inventory.quantity_input_14,
+        quantity: parseInt(x.inventory.quantity_input_14),
       };
       const item15 = {
         size: x.inventory.size_input_15,
-        quantity: x.inventory.quantity_input_15,
+        quantity: parseInt(x.inventory.quantity_input_15),
       };
 
       item1.size !== "" && inventoryArray.push(item1);
