@@ -15,4 +15,4 @@ function generate(inputPath) {
   });
 }
 
-generate("./output/ankh");
+generate("./output/zwaan");

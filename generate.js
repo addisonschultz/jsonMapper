@@ -16,17 +16,17 @@ function generate(inputPath) {
       const productImageArray = [];
       const inventoryArray = [];
 
-      x.productImage1 !== "./placeholder.png" &&
+      x.productImage1 !== ("./placeholder.png" || "placeholder.png") &&
         productImageArray.push({ productImage: x.productImage1 });
-      x.productImage2 !== "./placeholder.png" &&
+      x.productImage2 !== ("./placeholder.png" || "placeholder.png") &&
         productImageArray.push({ productImage: x.productImage2 });
-      x.productImage3 !== "./placeholder.png" &&
+      x.productImage3 !== ("./placeholder.png" || "placeholder.png") &&
         productImageArray.push({ productImage: x.productImage3 });
-      x.productImage4 !== "./placeholder.png" &&
+      x.productImage4 !== ("./placeholder.png" || "placeholder.png") &&
         productImageArray.push({ productImage: x.productImage4 });
-      x.productImage5 !== "./placeholder.png" &&
+      x.productImage5 !== ("./placeholder.png" || "placeholder.png") &&
         productImageArray.push({ productImage: x.productImage5 });
-      x.productImage6 !== "./placeholder.png" &&
+      x.productImage6 !== ("./placeholder.png" || "placeholder.png") &&
         productImageArray.push({ productImage: x.productImage6 });
 
       const item1 = {
