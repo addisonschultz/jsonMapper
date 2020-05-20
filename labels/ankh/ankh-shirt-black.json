@@ -1,7 +1,5 @@
 {
-"color": [
-    "black"
-  ],
+  "color": ["black"],
   "productImage1": "img_4560-ed-2-scaled.jpg",
   "productImage2": "4136-edit-scaled.jpg",
   "sex": "u",
@@ -53,11 +51,6 @@
     "size_input_2": "M"
   },
   "sku": "ankh-003",
-  "sustainable": [
-    "locally-made",
-    "social"
-  ],
-  "category": [
-    "tee"
-  ]
+  "sustainable": ["locally-made", "social"],
+  "category": ["tee"]
 }

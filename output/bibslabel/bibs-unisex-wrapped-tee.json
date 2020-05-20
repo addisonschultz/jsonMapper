@@ -1,1 +1,28 @@
-{"test":1}
+{
+  "color": ["white"],
+  "sex": "u",
+  "productImages": [
+    { "productImage": "wfc_tee_3_900x.jpg" },
+    { "productImage": "wfc_tee_header_2048x.jpg" },
+    { "productImage": "wfc_tee_5_900x.jpg" },
+    { "productImage": "wfc_tee_1_900x.jpg" }
+  ],
+  "price": 49.95,
+  "productDescription": "The Original BiBS are handmade in the Netherlands, hence every piece is unique meant to support creatives on a daily basis.",
+  "optionalInfo": {
+    "material": "100% Organic Cotton (ring-spin combed)",
+    "fit": "Relaxed fit",
+    "care": "Washing instructions: max. 30°C",
+    "production": "This item is produced in a mill that enforces strict social and environmental standards, treating their employees and the earth with deep respect. \n\n- It is not treated with bleach, formaldehyde or any other toxic substances\n- Does not contain any toxic dyes",
+    "sku": "bibs-002",
+    "additionalNotes": ""
+  },
+  "shipping": 0,
+  "productName": "BiBS Unisex Wrapped Tee",
+  "inventory": [
+    { "size": "Medium", "quantity": "2" },
+    { "size": "Large", "quantity": "2" }
+  ],
+  "sustainable": ["eco-friendly", "fair-trade", "locally-made"],
+  "category": ["tee"]
+}
