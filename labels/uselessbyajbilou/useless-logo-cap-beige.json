@@ -1,0 +1,63 @@
+{
+"color": [
+    "beige"
+  ],
+  "productImage1": "petje-kaki.jpg",
+  "productImage2": "petje-model-400x600.jpg",
+  "sex": "u",
+  "productImage3": "petje-kaki-400x600.jpg",
+  "material": "100% cotton",
+  "productImage4": "placeholder.png",
+  "productImage5": "placeholder.png",
+  "price": 35,
+  "productImage6": "placeholder.png",
+  "shipping": 3.95,
+  "productShortDescription": "Our Logo cap in beige or white suits everyone well. Give your look that edgy style and add our Logo cap to it. Fits everyone because of the adjustable closure at the back. The veil in the picture is just a styling element. Caps are made without veil. ",
+  "fit": "All sizes, adjustable closure.",
+  "care": "Hand wash in cold water.",
+  "production": "Our products are hand made with love in our atelier in Utrecht, The Netherlands.",
+  "productName": "USELESS Logo Cap Beige",
+  "additionalNotes": "",
+  "inventory": {
+    "size_input_0": "One size",
+    "quantity_input_0": "20",
+    "size_input_1": "",
+    "quantity_input_1": "0",
+    "size_input_2": "",
+    "quantity_input_2": "0",
+    "size_input_3": "",
+    "quantity_input_3": "0",
+    "size_input_4": "",
+    "quantity_input_4": "0",
+    "size_input_5": "",
+    "quantity_input_5": "0",
+    "size_input_6": "",
+    "quantity_input_6": "0",
+    "size_input_7": "",
+    "quantity_input_7": "0",
+    "size_input_8": "",
+    "quantity_input_8": "0",
+    "size_input_9": "",
+    "quantity_input_9": "0",
+    "size_input_10": "",
+    "quantity_input_10": "0",
+    "size_input_11": "",
+    "quantity_input_11": "0",
+    "size_input_12": "",
+    "quantity_input_12": "0",
+    "size_input_13": "",
+    "quantity_input_13": "0",
+    "size_input_14": "",
+    "quantity_input_14": "0",
+    "size_input_15": "",
+    "quantity_input_15": "0"
+  },
+  "sku": "useless-006",
+  "sustainable": [
+    "locally-made",
+    "eco-friendly"
+  ],
+  "category": [
+    "hat"
+  ]
+}

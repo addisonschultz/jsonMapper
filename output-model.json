@@ -1,0 +1,81 @@
+{
+  "labelInfo": {
+    "labelAddress": "",
+    "labelPhone": "",
+    "labelImage": "japan_001.jpg",
+    "labelDescription": "e o u i e, the legacy of a name.\nA rhythm of remaining vowels. Reused to create this brand.\n\nYoung urban design for daily life pursuits. Inspired by time, led by need.\nDesign, produce and distribute within the same borders. This aim is the basis for our future.\n\nHigh quality garments with minimum impact on human and nature. Made from remaining fabrics saved from death row.\nReused to create this movement.\n\n",
+    "labelEmail": "lisa@de-heer.nl"
+  },
+  "products": [
+    {
+      "color": ["black"],
+      "sex": "u",
+      "productImages": [
+        {
+          "productImage": "japan_002.jpg"
+        },
+        {
+          "productImage": "japan_006.jpg"
+        },
+        {
+          "productImage": "japan_photography_82.jpg"
+        }
+      ],
+      "price": 54.95,
+      "productDescription": "Loose fit\n\nOrganic cotton 100%\n\nModel wears size S\n\nModel is 169 cm tall",
+      "optionalInfo": {
+        "material": "Made out of leftover cotton, 100% organic cotton.",
+        "fit": "Loose fit",
+        "care": "Wash at max. 40 degrees.",
+        "production": "Manufactured in Portugal",
+        "sku": "eouie001",
+        "additionalNotes": ""
+      },
+      "shipping": 0,
+      "productName": "eouie Longsleeve Unisex Black",
+      "inventory": [
+        {
+          "size": "XS",
+          "quantity": 2
+        },
+        {
+          "size": "S",
+          "quantity": 2
+        },
+        {
+          "size": "M",
+          "quantity": 2
+        },
+        {
+          "size": "L",
+          "quantity": 2
+        },
+        {
+          "size": "XL",
+          "quantity": 2
+        }
+      ],
+      "sustainable": ["locally-made", "fair-trade", "eco-friendly"],
+      "category": ["tee"]
+    },
+    {
+      "color": ["white"],
+      "sex": "u",
+      "price": 54.95,
+      "productDescription": "Loose fit\n\nOrganic cotton 100%\n\nModel wears size S\n\nModel is 169 cm tall",
+      "optionalInfo": {
+        "material": "Made of leftover fabrics, 100% organic cotton.",
+        "fit": "Loose fit",
+        "care": "Wash at max. 40 degrees.",
+        "production": "Manufactured in Portugal",
+        "sku": "eouie002",
+        "additionalNotes": ""
+      },
+      "shipping": 0,
+      "productName": "eouie Longsleeve Unisex White",
+      "sustainable": ["eco-friendly", "fair-trade", "locally-made"],
+      "category": ["tee"]
+    }
+  ],
+  "labelName": "eouie"
+}
